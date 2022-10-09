@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      uri:  mongodb+srv://hemkant:admin@springbootwithmongodbde.62ujyt7.mongodb.net/?retryWrites=true&w=majority
+      uri:  mongodb+srv://hemkant:<password>>@springbootwithmongodbde.62ujyt7.mongodb.net/?retryWrites=true&w=majority
       database: Task
